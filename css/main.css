@@ -1,0 +1,131 @@
+
+
+/* Start Navbar */
+
+
+
+
+
+.navbar-nav .nav-link {
+  font-size: 14px;
+  text-transform: capitalize;
+font-weight: bold;
+  margin-left: 20px;
+  color: #2e2f30;
+  
+}
+fas fa-angle-down{
+  color: #2e2f30;
+  size: 10px;
+}
+
+
+/* End Navbar */
+
+/* Start Slier */
+
+
+
+
+/* End Slider */
+.imgcol{
+  display: block;
+  height: 20px;
+  width: 20px;
+}
+.images{
+  text-align: center;
+  margin: 40px;
+  margin-right: 80px;
+
+}
+
+.footers{
+  list-style:none ;
+  color:rgb(72, 70, 70);
+  background-color: rgb(225, 225, 225);
+  font-size: 15px; 
+}
+ul{
+  list-style:none ;
+  cursor: pointer;
+}
+
+.hfoot{
+ margin-left: 40px ;
+  font-weight: bold;
+}
+
+.copyright {
+  background-color: rgb(225, 225, 225);
+  font-size: 12px; 
+}
+
+
+/* Start Latest Posts */
+
+.latest-posts {
+  padding: 0 0 100px
+}
+
+.latest-posts h2 {
+  font-size: 50px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.latest-posts .section-description {
+  line-height: 1.6;
+  font-size: 20px;
+  width: 80%;
+  margin: 0 auto 45px;
+  color: #6a6a6a;
+}
+
+.latest-posts .card {
+  margin-bottom: 30px
+}
+
+.latest-posts .card .card-title {
+  font-size: 20px;
+  line-height: 1.5;
+  color: #08526d
+}
+
+.latest-posts .card .card-text {
+  color: #787878;
+  margin-bottom: 5px
+}
+
+.latest-posts .card .card-link {
+  color: #ed1d24;
+  font-weight: bold
+}
+
+/* End Latest Posts */
+
+
+/* Start Copyright */
+
+.copyright {
+
+  padding: 12px;
+}
+
+.copyright ul {
+ 
+  margin: 0
+}
+
+.copyright ul li {
+  display: inline-block;
+}
+
+.copyright ul li a {
+  color: #777;
+  display: inline-block;
+  margin-left: 20px;
+  font-size: 12px;
+}
+
+/* End Copyright */
